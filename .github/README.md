@@ -35,7 +35,7 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Vampire674/KILLEROPMUSIC"> <img src="https://files.catbox.moe/eg6zhs.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Vampire674/KILLEROPMUSIC"> <img src="https://files.catbox.moe/gsyr78.jpg" width="520" height="198.45"/></a></p>
 
 
 
