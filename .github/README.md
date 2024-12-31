@@ -24,8 +24,8 @@
 ## 🖇 Generating Pyrogram String Session
 
 <p>
-<a href="https://t.me/Shayarmusic_bot-Gen"><img src="https://img.shields.io/badge/TG%20TAP BABY%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/@Shayarmusic_bot-Gen"><img src="https://img.shields.io/badge/NAYRAMUSIC%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/Shayarmusic_bot-Gen"><img src="https://img.shields.io/badge/TG%20TAP BABY%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/@Shayarmusic_bot-Gen"><img src="https://img.shields.io/badge/NAYRA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 
 
 <h3 align="center">
